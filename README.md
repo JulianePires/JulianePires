@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mpiresjuliane@outlook.com**
 
-- ⚡ Fun fact **I like to sing in the shower, coffee without sugar, crafted beers and lamen**
+- ⚡ Fun fact **I like sing in the shower, coffee without sugar, crafted beers and open word games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
