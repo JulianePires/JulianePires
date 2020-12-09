@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JulianePires](https://github.com/JulianePires)
 
-- 📝 I regulary write articles on [https://medium.com/@julianempires](https://medium.com/@julianempires)
-
 - 💬 Ask me about **Html, CSS**
 
 - 📫 How to reach me **mpiresjuliane@outlook.com**
