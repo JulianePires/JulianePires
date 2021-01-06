@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianepires" alt="julianepires" /></a> </p>
 
-- 🔭 I’m currently working on [30diasDeCSS](https://github.com/JulianePires/30diasDeCSS)
+- 🔭 I’m currently working on [javascript30](https://github.com/JulianePires/javascript30)
 
 - 🌱 I’m currently learning **CSS, Javascript, React, Node, PHP and Shell Script**
 
