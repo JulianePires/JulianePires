@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ciccaba.scriptcase.host:2083/cpsess0093412752/viewer/home%2fjulianep%2fpublic_html%2fimagens/_codeju.png" align="center" style="width: 100%" />
+  <img src="_codeju.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -110,13 +110,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JulianePires&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center" style="width: 100vh"><img src="https://github-readme-stats.vercel.app/api?username=JulianePires&show_icons=true&count_private=true&hide_border=true" align="center"  /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianePires&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianePires&hide_border=true&layout=default" align="center" style="width: 100%"/></div>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12146556703&cover_image=true&theme=default" /></div>  
+<div align="center" style="width: 100vh"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12146556703&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
