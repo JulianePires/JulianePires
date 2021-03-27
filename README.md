@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻 working remotely from Mars 🚀</div>  
   
 
-- 🔭 I’m currently working on [javascript30](https://github.com/JulianePires/javascript30) and [Tem café?](https://github.com/JulianePires/tem-cafe)  
+- 🔭 I’m currently working on [lacarteira](https://github.com/JulianePires/lacarteira) and [siteonglgbtmaisdobrasil](https://github.com/GrupoCPB/siteonglgbtmaisdobrasil)  
   
 
 - 🌱 I’m currently learning **CSS, Javascript, React, Node, PHP and Shell Script**  
