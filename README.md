@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="_codeju.png" align="center" style="width: 100%" />
+  <img src="_codeju.png" align="center" style="width: 80%" />
 </div>  
   
 
 ### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻 working remotely from Mars 🚀</div>  
   
 
-- 🔭 I’m currently working on [lacarteira](https://github.com/JulianePires/lacarteira) and [siteonglgbtmaisdobrasil](https://github.com/GrupoCPB/siteonglgbtmaisdobrasil)  
+- 🔭 I’m currently working on [Fandom](https://github.com/mobixsoftwarestudio/fandom-next)
   
 
 - 🌱 I’m currently learning **CSS, Javascript, React, Node, PHP and Shell Script**  
