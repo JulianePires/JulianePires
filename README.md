@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Fandom](https://github.com/mobixsoftwarestudio/fandom-next)
   
 
-- 🌱 I’m currently learning **CSS, Javascript, React, Node, PHP and Shell Script**  
+- 🌱 I’m currently learning **CSS, Javascript, React, Node, C#**  
   
 
 - 💬 Ask me about **Html, CSS**  
