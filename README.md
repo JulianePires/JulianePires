@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="_codeju.png" align="center" style="width: 80%" />
+<!--   <img src="_codeju.png" align="center" style="width: 80%" /> -->
 </div>  
   
 
