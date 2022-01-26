@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻 working remotely from Mars 🚀</div>  
   
 
-- 🔭 I’m currently working on [todo-react](https://github.com/JulianePires/todo-react)
+- 🔭 I’m currently working on [blueteco-backend](https://github.com/JulianePires/blueteco-backend)
   
 
 - 🌱 I’m currently learning **CSS, Javascript, React, Node, C#**  
