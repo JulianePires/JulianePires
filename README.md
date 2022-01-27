@@ -2,6 +2,7 @@
 <!--   <img src="_codeju.png" align="center" style="width: 80%" /> -->
 </div>  
   
+ <a align="center" href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 ### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻 working remotely from Mars 🚀</div>  
   
