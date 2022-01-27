@@ -1,8 +1,9 @@
 <div align="center">
 <!--   <img src="_codeju.png" align="center" style="width: 80%" /> -->
 </div>  
-  
+  <div align="center">
  <a href="https://app.daily.dev/julianepires"><img src="https://api.daily.dev/devcards/a2c1ece4c5d14d1fb9a176ab9e9862dc.png?r=33c" width="400" alt="JULIANE PIRES's Dev Card"/></a>
+  </div> 
 
 ### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻 working remotely from Mars 🚀</div>  
   
