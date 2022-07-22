@@ -5,7 +5,7 @@
  <a href="https://app.daily.dev/julianepires"><img src="https://api.daily.dev/devcards/a2c1ece4c5d14d1fb9a176ab9e9862dc.png?r=33c" width="400" alt="JULIANE PIRES's Dev Card"/></a>
   </div> 
 
-### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻 working remotely from Mars 🚀</div>  
+### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [blueteco-backend](https://github.com/JulianePires/blueteco-backend)
