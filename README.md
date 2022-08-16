@@ -103,7 +103,7 @@
 ## Github Stats  
 <div align="center" style="width: 100vh"><img src="https://github-readme-stats.vercel.app/api?username=JulianePires&show_icons=true&count_private=true&hide_border=true" align="center"  /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianePires&hide_border=true&layout=default" align="center" style="width: 100%"/></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianePires&hide_border=true&layout=default" align="center" /></div>  
 
 <br/>  
 
