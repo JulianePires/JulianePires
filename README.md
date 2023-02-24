@@ -1,20 +1,16 @@
 <div align="center">
 <!--   <img src="_codeju.png" align="center" style="width: 80%" /> -->
 </div>  
-  <div align="center">
- <a href="https://app.daily.dev/julianepires"><img src="https://api.daily.dev/devcards/a2c1ece4c5d14d1fb9a176ab9e9862dc.png?r=33c" width="400" alt="JULIANE PIRES's Dev Card"/></a>
-  </div> 
 
 ### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻</div>  
+
+- 🔭 I’m currently working on [PadroesDeProjeto](https://github.com/JulianePires/PadroesDeProjeto)
   
 
-- 🔭 I’m currently working on [blueteco-backend](https://github.com/JulianePires/blueteco-backend)
+- 🌱 I’m currently learning **Docker, Kubernets, AKS, DesignPatterns, Pipeline, IaC, C#**  
   
 
-- 🌱 I’m currently learning **CSS, Javascript, React, Node, C#**  
-  
-
-- 💬 Ask me about **Html, CSS**  
+- 💬 Ask me about **Html, CSS, Javascript, POO, React, Next, Frontend**  
   
 
 - ⚡ Fun fact **I like sing in the shower, coffee without sugar, crafted beers and open word games. Also, I have a dog named Maria and two cats: Paulina and Isaac Newton**  
