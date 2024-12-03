@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi, I'm Juliane, a passionate computer science learner 👨‍💻</div>  
 
-- 🔭 I’m currently working on [PadroesDeProjeto](https://github.com/JulianePires/PadroesDeProjeto)
+- 🔭 I’m currently working on [Backend DigiHortinha](https://github.com/JulianePires/PadroesDeProjeto](https://github.com/JulianePires/digihortinha-backend) e [Portfólio Juliane Pires](https://github.com/JulianePires/PadroesDeProjeto](https://github.com/JulianePires/digihortinha-backend](https://github.com/JulianePires/portfolio-juliane-pires)
   
 
 - 🌱 I’m currently learning **Docker, Kubernets, AKS, DesignPatterns, Pipeline, IaC, C#**  
